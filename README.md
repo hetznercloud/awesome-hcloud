@@ -14,48 +14,48 @@ Want to have your project listed? Submit a Pull Request!
 functional and of good quality, we cannot provide any guarantee that they actually
 work, are complete, nor that they do not cause any harm to your system or your account.**
 
-### Libraries
+## Libraries
 
-#### Go
+### Go
 
 * **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Official library for Go**
 
-#### Java
+### Java
 
 * [hcloud-java](https://github.com/riy/hcloud-java) — Library for Java
 * [HetznerCloud-Java-Client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Library for Java
 * [jhcloudapi](https://github.com/theq86/jhcloudapi) — Library for Java
 
-#### JavaScript
+### JavaScript
 
 * [hcloud-js](https://github.com/dennisbruner/hcloud-js) — Library for Node.js (JavaScript)
 
-#### Perl
+### Perl
 
 * [hcloud-perl](https://github.com/bmwiedemann/hcloud-perl) — Library for Perl
 
-#### PHP
+### PHP
 
 * [hcloud-php](https://github.com/Exploriment/hcloud-php) — Library for PHP
 * [hetzner-cloud-api-client](https://github.com/webfoersterei/hetzner-cloud-api-client) — Library for PHP
 * [hetzner-cloud-php-sdk](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — Library for PHP
 
-#### Python
+### Python
 
 * [hetznercloud-py](https://github.com/elsyms/hetznercloud-py) — Library for Python
 
-#### Ruby
+### Ruby
 
 * [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
 
-### Tools
+## Tools
 
 * **[cli](https://github.com/hetznercloud/cli) — Official CLI tool running on macOS, Linux, and Windows**
 * [hetzner-cloud-cli-sh](https://github.com/thabbs/hetzner-cloud-cli-sh) — CLI written in Bash
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — CLI tool for provisioning Kubernetes clusters
 * [PowerShell-HetznerCloud](https://github.com/nicholasdille/PowerShell-HetznerCloud) — PowerShell Cmdlets
 
-### Integrations
+## Integrations
 
 * **[terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) — Official provider for Terraform**
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Official cloud controller manager for Kubernetes**
