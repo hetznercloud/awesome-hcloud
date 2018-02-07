@@ -16,17 +16,37 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Libraries
 
+#### Go
+
 * **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Official library for Go**
+
+#### Java
+
 * [hcloud-java](https://github.com/riy/hcloud-java) — Library for Java
+* [HetznerCloud-Java-Client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Library for Java
+* [jhcloudapi](https://github.com/theq86/jhcloudapi) — Library for Java
+
+#### JavaScript
+
 * [hcloud-js](https://github.com/dennisbruner/hcloud-js) — Library for Node.js (JavaScript)
+
+#### Perl
+
 * [hcloud-perl](https://github.com/bmwiedemann/hcloud-perl) — Library for Perl
+
+#### PHP
+
 * [hcloud-php](https://github.com/Exploriment/hcloud-php) — Library for PHP
-* [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
 * [hetzner-cloud-api-client](https://github.com/webfoersterei/hetzner-cloud-api-client) — Library for PHP
 * [hetzner-cloud-php-sdk](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — Library for PHP
-* [HetznerCloud-Java-Client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Library for Java
+
+#### Python
+
 * [hetznercloud-py](https://github.com/elsyms/hetznercloud-py) — Library for Python
-* [jhcloudapi](https://github.com/theq86/jhcloudapi) — Library for Java
+
+#### Ruby
+
+* [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
 
 ### Tools
 
