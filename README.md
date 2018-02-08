@@ -23,9 +23,9 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### Java
 
 * [hcloud-java](https://github.com/riy/hcloud-java) — Library for Java
+* [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) — Library for Java
 * [HetznerCloud-Java-Client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Library for Java
 * [jhcloudapi](https://github.com/theq86/jhcloudapi) — Library for Java
-* [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) - Library for Java
 
 ### JavaScript
 
