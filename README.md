@@ -65,6 +65,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [packer-builder-hcloud](https://github.com/m110/packer-builder-hcloud) — Builder for Packer
 * [puppet-hetznercloud](https://github.com/bastelfreak/puppet-hetznercloud) — Module for Puppet
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — UI Driver for Rancher
+* [kubernetes-machine-controller](https://github.com/kubermatic/machine-controller) — Kubernetes controller which spins up worker nodes based upon a machine manifest
 
 ## License
 
