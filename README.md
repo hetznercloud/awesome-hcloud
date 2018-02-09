@@ -62,10 +62,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Official cloud controller manager for Kubernetes**
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — Driver for Docker Machine
 * [hetzner-cloud-ansible-inventory](https://github.com/thannaske/hetzner-cloud-ansible-inventory) — Ansible Inventory
+* [kubernetes-machine-controller](https://github.com/kubermatic/machine-controller) — Kubernetes controller which spins up worker nodes based upon a machine manifest
 * [packer-builder-hcloud](https://github.com/m110/packer-builder-hcloud) — Builder for Packer
 * [puppet-hetznercloud](https://github.com/bastelfreak/puppet-hetznercloud) — Module for Puppet
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — UI Driver for Rancher
-* [kubernetes-machine-controller](https://github.com/kubermatic/machine-controller) — Kubernetes controller which spins up worker nodes based upon a machine manifest
 
 ## License
 
