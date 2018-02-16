@@ -66,6 +66,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [packer-builder-hcloud](https://github.com/m110/packer-builder-hcloud) — Builder for Packer
 * [puppet-hetznercloud](https://github.com/bastelfreak/puppet-hetznercloud) — Module for Puppet
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — UI Driver for Rancher
+* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) - Pure Python ansible inventory with group support
 
 ## License
 
