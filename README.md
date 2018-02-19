@@ -31,6 +31,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-js](https://github.com/dennisbruner/hcloud-js) — Library for Node.js (JavaScript)
 
+### Kotlin
+
+* [hcloud-kotlin](https://github.com/DDKFM/hcloud-kotlin) — Library for Kotlin/Java
+
 ### Perl
 
 * [hcloud-perl](https://github.com/bmwiedemann/hcloud-perl) — Library for Perl
