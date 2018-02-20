@@ -16,6 +16,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Libraries
 
+### Elixir
+
+* [hcloud-elixir](https://gitlab.com/ahamtech/elixir/hcloud) — Library for Elixir
+
 ### Go
 
 * **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Official library for Go**
