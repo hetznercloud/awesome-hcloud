@@ -57,6 +57,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
 
+### Elixir
+
+* [hcloud-elixir](https://gitlab.com/ahamtech/elixir/hcloud) — Library for Elixir
+
 ## Tools
 
 * **[cli](https://github.com/hetznercloud/cli) — Official CLI tool running on macOS, Linux, and Windows**
