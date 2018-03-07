@@ -59,17 +59,24 @@ func main() {
 
 func checkList(ul *goquery.Selection, heading string) {
 	var lastName string
-	ul.Find("li > a:first").Each(func(i int, s *goquery.Selection) {
-		name := s.Text()
-		if i == 0 {
+
+	ul.Find("li").Each(func(i int, li *goquery.Selection) {
+		li.Find("a").First().Each(func(_ int, s *goquery.Selection) {
+			if s.Parent().Is("strong") {
+				// Do not check bold/official entries at the top
+				return
+			}
+			name := s.Text()
+			if i == 0 {
+				lastName = name
+				return
+			}
+			if strings.ToLower(name) < strings.ToLower(lastName) {
+				fmt.Printf("item %q in list %q is not sorted alphabetically (must be before %q)\n", name, heading, lastName)
+				hasErrors = true
+			}
 			lastName = name
-			return
-		}
-		if strings.ToLower(name) < strings.ToLower(lastName) {
-			fmt.Printf("item %q in list %q is not sorted alphabetically (must be before %q)\n", name, heading, lastName)
-			hasErrors = true
-		}
-		lastName = name
+		})
 	})
 
 	ul.Find("li").Each(func(i int, s *goquery.Selection) {
