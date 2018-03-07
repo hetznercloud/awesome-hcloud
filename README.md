@@ -55,8 +55,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Ruby
 
-* [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
 * [fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Library for [Fog](https://github.com/fog/fog)
+* [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
 
 ## Tools
 
