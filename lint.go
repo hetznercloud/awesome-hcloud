@@ -59,7 +59,7 @@ func main() {
 
 func checkList(ul *goquery.Selection, heading string) {
 	var lastName string
-	ul.Find("li > a").Each(func(i int, s *goquery.Selection) {
+	ul.Find("li > a:first").Each(func(i int, s *goquery.Selection) {
 		name := s.Text()
 		if i == 0 {
 			lastName = name
