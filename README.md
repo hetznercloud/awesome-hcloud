@@ -61,8 +61,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * **[cli](https://github.com/hetznercloud/cli) — Official CLI tool running on macOS, Linux, and Windows**
 * [hetzner-cloud-cli-sh](https://github.com/thabbs/hetzner-cloud-cli-sh) — CLI written in Bash
+* [Hetzner-cloud-mobile-app](https://github.com/LKDevelopment/hetzner-cloud-mobile-app) — Mobile App running on Android and iOS
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — CLI tool for provisioning Kubernetes clusters
-* [Hetzner Cloud Mobile App](https://github.com/LKDevelopment/hetzner-cloud-mobile-app) — Mobile App running on Android and iOS
 * [PowerShell-HetznerCloud](https://github.com/nicholasdille/PowerShell-HetznerCloud) — PowerShell Cmdlets
 
 ## Integrations
