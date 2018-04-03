@@ -71,6 +71,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Official cloud controller manager for Kubernetes**
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — Pure Python ansible inventory with group support
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — Driver for Docker Machine
+* [rancher-ui-driver](https://mxschmitt.github.io/ui-driver-hetzner/) — UI-Driver for [Rancher Server](https://rancher.com/)
 * [fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Library for [Fog](https://github.com/fog/fog)
 * [hcloud-ansible](https://github.com/thetechnick/hcloud-ansible) — Ansible Module and Inventory
 * [hetzner-cloud-ansible-inventory](https://github.com/thannaske/hetzner-cloud-ansible-inventory) — Ansible Inventory
