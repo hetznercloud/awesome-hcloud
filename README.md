@@ -47,7 +47,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-php](https://github.com/Exploriment/hcloud-php) — Library for PHP
 * [hetzner-cloud-api-client](https://github.com/webfoersterei/hetzner-cloud-api-client) — Library for PHP
-* [hetzner-cloud-client-php](https://github.com/arkste/hetzner-cloud-client-php) - Library for PHP
+* [hetzner-cloud-client-php](https://github.com/arkste/hetzner-cloud-client-php) — Library for PHP
 * [hetzner-cloud-php-sdk](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — Library for PHP
 
 ### Python
