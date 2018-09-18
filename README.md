@@ -34,7 +34,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### JavaScript
 
 * [hcloud-js](https://github.com/dennisbruner/hcloud-js) — Library for Node.js (JavaScript)
-* [hcloud-nodejs](https://www.npmjs.com/package/hcloud-nodejs) — Library for Node.js (JavaScript)
+* [hcloud-nodejs](https://github.com/Halfbax/hcloud-nodejs) — Library for Node.js (JavaScript)
 
 ### Kotlin
 
