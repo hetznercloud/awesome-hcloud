@@ -76,6 +76,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — Driver for Docker Machine
 * [fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Library for [Fog](https://github.com/fog/fog)
 * [hcloud-ansible](https://github.com/thetechnick/hcloud-ansible) — Ansible Module and Inventory
+* [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — CSI Plugin to provision Volumes for Kubernetes (and other Orchestrators)
 * [hetzner-cloud-ansible-inventory](https://github.com/thannaske/hetzner-cloud-ansible-inventory) — Ansible Inventory
 * [kubernetes-machine-controller](https://github.com/kubermatic/machine-controller) — Kubernetes controller which spins up worker nodes based upon a machine manifest
 * [packer-builder-hcloud](https://github.com/m110/packer-builder-hcloud) — Builder for Packer
