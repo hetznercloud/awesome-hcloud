@@ -74,7 +74,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Official cloud controller manager for Kubernetes**
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — Pure Python ansible inventory with group support
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — Driver for Docker Machine
-* [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm).
+* [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 * [fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Library for [Fog](https://github.com/fog/fog)
 * [hcloud-ansible](https://github.com/thetechnick/hcloud-ansible) — Ansible Module and Inventory
 * [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — CSI Plugin to provision Volumes for Kubernetes (and other Orchestrators)
