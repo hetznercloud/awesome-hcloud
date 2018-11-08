@@ -18,7 +18,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Clojure
 
-* [hcloud-clojure](https://github.com/olieidel/hcloud) – Library for Clojure
+* [hcloud-clojure](https://github.com/olieidel/hcloud) — Library for Clojure
 
 ### Elixir
 
