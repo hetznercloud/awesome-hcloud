@@ -16,6 +16,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Libraries
 
+### Clojure
+
+* [hcloud-clojure](https://github.com/olieidel/hcloud) — Library for Clojure
+
 ### Elixir
 
 * [hcloud-elixir](https://gitlab.com/ahamtech/elixir/hcloud) — Library for Elixir
