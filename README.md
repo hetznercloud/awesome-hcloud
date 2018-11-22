@@ -88,6 +88,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [puppet-hetznercloud](https://github.com/bastelfreak/puppet-hetznercloud) — Module for Puppet
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — UI Driver for Rancher
 * [vagrant-hetznercloud](https://github.com/elconas/vagrant-hetznercloud) — Provider for Hashicorp Vagrant
+* [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) - Script for switching multiple floating ips to another server in case of keepalived failover
 
 ## License
 
