@@ -66,6 +66,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ## Tools
 
 * **[cli](https://github.com/hetznercloud/cli) — Official CLI tool running on macOS, Linux, and Windows**
+* [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover
 * [hetzner-cloud-api-mock](https://github.com/LKDevelopment/hetzner-cloud-api-mock) — Hetzner Cloud API mock server
 * [hetzner-cloud-cli-sh](https://github.com/thabbs/hetzner-cloud-cli-sh) — CLI written in Bash
 * [Hetzner-cloud-mobile-app](https://github.com/LKDevelopment/hetzner-cloud-mobile-app) — Mobile App running on Android and iOS
@@ -88,7 +89,6 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [puppet-hetznercloud](https://github.com/bastelfreak/puppet-hetznercloud) — Module for Puppet
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — UI Driver for Rancher
 * [vagrant-hetznercloud](https://github.com/elconas/vagrant-hetznercloud) — Provider for Hashicorp Vagrant
-* [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) - Script for switching multiple floating ips to another server in case of keepalived failover
 
 ## License
 
