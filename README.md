@@ -84,7 +84,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 * [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 * [gem-fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Fog provider gem to support Hetzner Cloud.
-* [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — https://github.com/apricote/hcloud-csi-driver
+* [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — A Container Storage Interface (CSI) Driver for Hetzner Cloud Volumes.
 
 ## License
 
