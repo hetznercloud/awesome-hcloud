@@ -8,7 +8,7 @@ Projects formatted in **bold** are official Hetzner Cloud projects.
 * [Tools](#tools)
 * [Integrations](#integrations)
 
-Want to have your project listed? Submit a Pull Request!
+Want to have your project listed? Open an Issue!
 
 **Please note that while we try to only include projects in this list which are
 functional and of good quality, we cannot provide any guarantee that they actually
@@ -22,73 +22,69 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Elixir
 
-* [hcloud-elixir](https://gitlab.com/ahamtech/elixir/hcloud) — Library for Elixir
+* [hcloud-elixir](https://gitlab.com/ahamtech/elixir/Hcloud) — Hcloud - A Elixir library for the Hetzner Cloud API
 
 ### Go
 
-* **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Official library for Go**
+* **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Package hcloud is a library for the Hetzner Cloud API.**
 
 ### Java
 
-* [hcloud-java](https://github.com/riy/hcloud-java) — Library for Java
-* [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) — Library for Java
-* [HetznerCloud-Java-Client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Library for Java
-* [jhcloudapi](https://github.com/theq86/jhcloudapi) — Library for Java
+* [hcloud-java](https://github.com/riy/hcloud-java) — A Java wrapper for the Hetzner Cloud API. Easily interact with the Hetzner Cloud API using this library.
+* [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) — Simple Java client for the Hetzner Cloud API.
+* [hetznercloud-java-client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Java Client for HetznerCloud
+* [jhcloudapi](https://github.com/theq86/jhcloudapi) — A Java implementation of the Hetzner Cloud-API
 
 ### JavaScript
 
-* [hcloud-js](https://github.com/dennisbruner/hcloud-js) — Library for Node.js (JavaScript)
-* [hcloud-nodejs](https://github.com/Halfbax/hcloud-nodejs) — Library for Node.js (JavaScript)
+* [hcloud-js](https://github.com/dennisbruner/hcloud-js) — A Node.js module for the Hetzner Cloud API
+* [hcloud-nodejs](https://github.com/Halfbax/hcloud-nodejs) — hcloud-nodejs is a node.js package for Hetzner cloud that can be used to manage your projects.
 
 ### Kotlin
 
-* [hcloud-kotlin](https://github.com/DDKFM/hcloud-kotlin) — Library for Kotlin/Java
+* [hcloud-kotlin](https://github.com/DDKFM/hcloud-kotlin) — Kotlin libary for the hetzner cloud api
 
-### Perl
-
-* [hcloud-perl](https://github.com/bmwiedemann/hcloud-perl) — Library for Perl
 
 ### PHP
 
-* [hcloud-php](https://github.com/Exploriment/hcloud-php) — Library for PHP
-* [hetzner-cloud-api-client](https://github.com/webfoersterei/hetzner-cloud-api-client) — Library for PHP
-* [hetzner-cloud-client-php](https://github.com/arkste/hetzner-cloud-client-php) — Library for PHP
-* [hetzner-cloud-php-sdk](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — Library for PHP
+* [hcloud-php](https://github.com/Exploriment/hcloud-php) — PHP library for the Hetzner Cloud API by Exploriment
+* [hetzner-cloud-api-client](https://github.com/webfoersterei/hetzner-cloud-api-client) — API Client for managing Hetzner&#039;s Cloud
+* [hetzner-cloud-client-php](https://github.com/arkste/hetzner-cloud-client-php) — Hetzner Cloud API Client in PHP
+* [hetzner-cloud-php-sdk](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — A PHP SDK for the Hetzner Cloud API: docs.hetzner.cloud
+
+### Perl
+
+* [hcloud-perl](https://github.com/bmwiedemann/hcloud-perl) — This project is about implementing a perl library for the Hetzner cloud APIs
 
 ### Python
 
-* [hetznercloud-py](https://github.com/elsyms/hetznercloud-py) — Library for Python
+* [hetznercloud-py](https://github.com/thlisym/hetznercloud-py) — Python SDK for the new Hetzner cloud
 
 ### Ruby
 
-* [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Library for Ruby
+* [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Native ruby client for HetznerCloud
+
 
 ## Tools
 
-* **[cli](https://github.com/hetznercloud/cli) — Official CLI tool running on macOS, Linux, and Windows**
+* **[hcloud-cli](https://github.com/hetznercloud/cli) — hcloud is a command-line interface for interacting with Hetzner Cloud.**
 * [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover
-* [hetzner-cloud-api-mock](https://github.com/LKDevelopment/hetzner-cloud-api-mock) — Hetzner Cloud API mock server
-* [hetzner-cloud-cli-sh](https://github.com/thabbs/hetzner-cloud-cli-sh) — CLI written in Bash
-* [Hetzner-cloud-mobile-app](https://github.com/LKDevelopment/hetzner-cloud-mobile-app) — Mobile App running on Android and iOS
-* [hetzner-kube](https://github.com/xetys/hetzner-kube) — CLI tool for provisioning Kubernetes clusters
-* [PowerShell-HetznerCloud](https://github.com/nicholasdille/PowerShell-HetznerCloud) — PowerShell Cmdlets
+* [hetzner-cloud-api-mock](https://github.com/LKDevelopment/hetzner-cloud-api-mock) — A basic mock server that makes testing the Hetzner Cloud API a breeze.
+* [hetzner-cloud-cli-sh](https://github.com/thabbs/hetzner-cloud-cli-sh) — Unofficial Bash command line interface to the Hetzner Cloud API
+* [hetzner-cloud-mobile-app](https://github.com/LKaemmerling/hetzner-cloud-mobile-app) — Open source app for easily controlling the Hetzner Cloud
+* [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
+* [powershell-hetznercloud](https://github.com/nicholasdille/PowerShell-HetznerCloud) — Cmdlets for Hetzner Cloud covering the API working for Windows PowerShell 3+ and PowerShell Core 6
 
 ## Integrations
 
-* **[terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) — Official provider for Terraform**
-* **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Official cloud controller manager for Kubernetes**
-* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — Pure Python ansible inventory with group support
-* [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — Driver for Docker Machine
+* **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud**
+* **[hetzner-cloud-packer-builder](https://github.com/hashicorp/packer) — An official Packer.io Builder for Hetzner Cloud**
+* **[terraform-provider](https://github.com/terraform-providers/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
+* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
+* [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 * [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
-* [fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Library for [Fog](https://github.com/fog/fog)
-* [hcloud-ansible](https://github.com/thetechnick/hcloud-ansible) — Ansible Module and Inventory
-* [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — CSI Plugin to provision Volumes for Kubernetes (and other Orchestrators)
-* [hetzner-cloud-ansible-inventory](https://github.com/thannaske/hetzner-cloud-ansible-inventory) — Ansible Inventory
-* [kubernetes-machine-controller](https://github.com/kubermatic/machine-controller) — Kubernetes controller which spins up worker nodes based upon a machine manifest
-* [packer-builder-hcloud](https://github.com/m110/packer-builder-hcloud) — Builder for Packer
-* [puppet-hetznercloud](https://github.com/bastelfreak/puppet-hetznercloud) — Module for Puppet
-* [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — UI Driver for Rancher
-* [vagrant-hetznercloud](https://github.com/elconas/vagrant-hetznercloud) — Provider for Hashicorp Vagrant
+* [gem-fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Fog provider gem to support Hetzner Cloud.
+* [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — https://github.com/apricote/hcloud-csi-driver
 
 ## License
 
