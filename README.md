@@ -77,8 +77,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Integrations
 
-* **[container-storage-interface-driver-for-hetzner-cloud](https://github.com/hetznercloud/csi-driver) — This is a Container Storage Interface driver for Hetzner Cloud enabling you to use Volumes within Kubernetes. Please note that this driver requires Kubernetes 1.13 or newer.**
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud**
+* **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
 * **[hetzner-cloud-packer-builder](https://github.com/hashicorp/packer) — An official Packer.io Builder for Hetzner Cloud**
 * **[terraform-provider](https://github.com/terraform-providers/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
