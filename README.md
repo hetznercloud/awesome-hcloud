@@ -42,8 +42,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Kotlin
 
-* [hcloud-kotlin](https://github.com/DDKFM/hcloud-kotlin) — Kotlin libary for the hetzner cloud api
-
+* [hcloud-kotlin](https://github.com/DDKFM/hcloud-kotlin) — Kotlin library for the hetzner cloud api
 
 ### PHP
 
