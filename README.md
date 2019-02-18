@@ -34,6 +34,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) — Simple Java client for the Hetzner Cloud API.
 * [hetznercloud-java-client](https://github.com/Katzen48/HetznerCloud-Java-Client) — Java Client for HetznerCloud
 * [jhcloudapi](https://github.com/theq86/jhcloudapi) — A Java implementation of the Hetzner Cloud-API
+* [vaha-hetznercloud-connector](https://github.com/vahithanoglu/vaha-hetznercloud-connector) — A desktop and Android compatible Java 8 based connector for Hetzner Cloud API.
 
 ### JavaScript
 
