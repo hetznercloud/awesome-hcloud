@@ -58,6 +58,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Python
 
+* **[hcloud-python](https://github.com/hetznercloud/hcloud-python) — hcloud-python is a library for the Hetzner Cloud API.**
 * [hetznercloud-py](https://github.com/thlisym/hetznercloud-py) — Python SDK for the new Hetzner cloud
 
 ### Ruby
