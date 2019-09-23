@@ -40,6 +40,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-js](https://github.com/dennisbruner/hcloud-js) — A Node.js module for the Hetzner Cloud API
 * [hcloud-nodejs](https://github.com/Halfbax/hcloud-nodejs) — hcloud-nodejs is a node.js package for Hetzner cloud that can be used to manage your projects.
+* [hetzner-cloud-api-javascript-client](https://github.com/nezarati/hetzner-cloud) — A JavaScript integration for the Hetzner cloud to easily manage your resources.
 
 ### Kotlin
 
