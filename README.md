@@ -88,6 +88,9 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 * [gem-fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Fog provider gem to support Hetzner Cloud.
 * [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — A Container Storage Interface (CSI) Driver for Hetzner Cloud Volumes.
+* [itop-datacollector-for-hetzner-cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop.
+
+iTop is a web based open source tool for IT service management tasks.
 * [ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver
 
