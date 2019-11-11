@@ -26,6 +26,7 @@ func main() {
 	}
 
 	html := blackfriday.MarkdownCommon(readme)
+    //fmt.Printf("%s",html)
 	buf := bytes.NewBuffer(html)
 	doc, err := goquery.NewDocumentFromReader(buf)
 	if err != nil {
