@@ -94,6 +94,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 iTop is a web based open source tool for IT service management tasks. 
 * [ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers. 
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver 
+* [versioio](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB). 
 
 ## License
 
