@@ -83,6 +83,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud** 
 * **[hetzner-cloud-packer-builder](https://github.com/hashicorp/packer) — An official Packer.io Builder for Hetzner Cloud** 
 * **[terraform-provider](https://github.com/terraform-providers/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider** 
+* [algo-vpn](https://github.com/trailofbits/algo) — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN. 
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud 
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud. 
 * [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm) 
