@@ -50,7 +50,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-php](https://github.com/Exploriment/hcloud-php) — PHP library for the Hetzner Cloud API by Exploriment 
 * [hetzner-cloud-api-client](https://github.com/webfoersterei/hetzner-cloud-api-client) — API Client for managing Hetzner&#039;s Cloud 
-* [hetzner-cloud-client-php](https://github.com/arkste/hetzner-cloud-client-php) — Hetzner Cloud API Client in PHP 
+* [hetzner-cloud-client-php](https://github.com/arkste/hetzner-cloud-client-php) — Hetzner Cloud API Client in PHP **Deprecated**
 * [hetzner-cloud-php-sdk](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — A PHP SDK for the Hetzner Cloud API: docs.hetzner.cloud 
 
 ### Perl
