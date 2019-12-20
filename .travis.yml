@@ -1,8 +1,0 @@
-language: go
-go:
-  - 1.9
-sudo: false
-install:
-  - go get
-script:
-  - go run lint.go
