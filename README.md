@@ -46,6 +46,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-kotlin](https://github.com/DDKFM/hcloud-kotlin) — Kotlin library for the hetzner cloud api 
 
+### .NET / .NET Core / .NET Standard
+
+* [hetzner-cloud-api-net](https://github.com/lk-code/hetzner-cloud-api-net) - a .NET Standard 2.0 library
+
 ### PHP
 
 * [hcloud-php](https://github.com/Exploriment/hcloud-php) — PHP library for the Hetzner Cloud API by Exploriment 
