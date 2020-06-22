@@ -16,6 +16,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Libraries
 
+### .NET
+
+* [hetzner-cloud-api-for-net](https://github.com/lk-code/hetzner-cloud-api-net) — Hetzner Cloud API for .NET is a .NET Standard 2.0 Library 
+
 ### Clojure
 
 * [hcloud-clojure](https://github.com/olieidel/hcloud) — Library for Clojure 
