@@ -104,6 +104,7 @@ iTop is a web based open source tool for IT service management tasks.
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver 
 * [vagrant-hetznercloud](https://github.com/elconas/vagrant-hetznercloud) — This is a Vagrant plugin that adds a Hetznercloud provider to Vagrant, allowing Vagrant to control and provision machines in Hetznercloud. 
 * [versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB). 
+* [terraform-provider-hdns](https://github.com/alxrem/terraform-provider-hdns) — Terraform provider for configuring Hetzner DNS
 
 ## License
 
