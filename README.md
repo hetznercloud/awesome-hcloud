@@ -87,7 +87,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud** 
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud** 
 * **[hetzner-cloud-packer-builder](https://github.com/hashicorp/packer) — An official Packer.io Builder for Hetzner Cloud** 
-* **[terraform-provider](https://github.com/terraform-providers/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider** 
+* **[terraform-provider](https://github.com/terraform-providers/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
 * [algo-vpn](https://github.com/trailofbits/algo) — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN. 
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud 
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud. 
@@ -97,6 +97,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hcloud-fip-controller](https://github.com/cbeneke/hcloud-fip-controller) — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances. 
 * [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD 
 * [hcloud-ip-floater](https://github.com/costela/hcloud-ip-floater) — Kubernetes controller to attach hcloud floating IPs to services&#039; nodes. 
+* [hetzner.cloud](https://github.com/ansible-collections/hetzner.hcloud) - Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).
 * [itop-datacollector-for-hetzner-cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop.
 
 iTop is a web based open source tool for IT service management tasks. 
