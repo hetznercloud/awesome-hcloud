@@ -95,7 +95,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud. 
 * [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm) 
 * [gem-fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Fog provider gem to support Hetzner Cloud. 
-* [hcloud-cloud-controller-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart 
+* [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart 
 * [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — A Container Storage Interface (CSI) Driver for Hetzner Cloud Volumes. **Deprecated**
 * [hcloud-fip-controller](https://github.com/cbeneke/hcloud-fip-controller) — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances. 
 * [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD 
