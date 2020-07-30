@@ -97,6 +97,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [gem-fog-hetznercloud](https://github.com/elconas/gem-fog-hetznercloud) — Fog provider gem to support Hetzner Cloud. 
 * [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart 
 * [hcloud-csi-driver](https://github.com/apricote/hcloud-csi-driver) — A Container Storage Interface (CSI) Driver for Hetzner Cloud Volumes. **Deprecated**
+* [hcloud-csi-driver-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-csi-driver-helm-chart) — Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes 
 * [hcloud-fip-controller](https://github.com/cbeneke/hcloud-fip-controller) — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances. 
 * [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD 
 * [hcloud-ip-floater](https://github.com/costela/hcloud-ip-floater) — Kubernetes controller to attach hcloud floating IPs to services&#039; nodes. 
