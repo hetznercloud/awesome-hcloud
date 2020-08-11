@@ -104,7 +104,10 @@ iTop is a web based open source tool for IT service management tasks.
 * [ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers. 
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver 
 * [vagrant-hetznercloud](https://github.com/elconas/vagrant-hetznercloud) — This is a Vagrant plugin that adds a Hetznercloud provider to Vagrant, allowing Vagrant to control and provision machines in Hetznercloud. 
-* [versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB). 
+* [versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB).
+
+## DBaaS
+* [ScaleChamp](https://www.scalechamp.com/) — Managed databases provider with PostgreSQL, MySQL, KeyDB, Redis support across 11 public clouds including Hetzner.
 
 ## License
 
