@@ -58,7 +58,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hc-volume-backup](https://gitlab.com/MartinBoehmer/hc-volume-backup) — Bash script to backup Hetzner Cloud Volumes. Automatically creates volumes for backups and maintains a defined number of them. 
 * [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover 
 * [hetzner-cloud-api-mock](https://github.com/LKDevelopment/hetzner-cloud-api-mock) — A basic mock server that makes testing the Hetzner Cloud API a breeze. 
-* [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud. 
+* [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
+* [kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automates cluster operations on hetzner cloud and other cloud providers. KubeOne can install high-available (HA) master clusters as well single master clusters.
 
 ## Integrations
 
