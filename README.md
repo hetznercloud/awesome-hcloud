@@ -85,6 +85,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [scalechamp](https://www.scalechamp.com) — Managed databases provider with PostgreSQL, MySQL, KeyDB, Redis support across 11 public clouds including Hetzner Cloud. 
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver 
 * [versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB). 
+* [hetzner-load-balancer-prometheus-exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) - Prometheus Exporter for Hetzner Cloud Load Balancer
 
 ## License
 
