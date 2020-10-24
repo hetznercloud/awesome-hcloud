@@ -60,6 +60,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetzner-cloud-api-mock](https://github.com/LKDevelopment/hetzner-cloud-api-mock) — A basic mock server that makes testing the Hetzner Cloud API a breeze. 
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud. 
 * [kubeone](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters. 
+* [gitlab-hetzner-runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
 
 ## Integrations
 
