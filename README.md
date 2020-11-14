@@ -82,6 +82,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [laravel-forge](https://forge.laravel.com/) — Laravel Hosting &amp; Instant PHP Servers on Hetzner Cloud 
 * [libcluster-hcloud](https://github.com/EightSQ/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster 
 * [ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers. 
+* [rancher-hcloud](https://github.com/alexzimmer96/rancher-hcloud) - A Terraform script to deploy a highly available Rancher installation on Hetzner Cloud.
 * [scalechamp](https://www.scalechamp.com) — Managed databases provider with PostgreSQL, MySQL, KeyDB, Redis support across 11 public clouds including Hetzner Cloud. 
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver 
 * [versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB). 
