@@ -74,6 +74,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud 
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud. 
 * [docker-volume-hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm) 
+* [gitlab-hetzner-runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI. 
 * [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart 
 * [hcloud-csi-driver-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-csi-driver-helm-chart) — Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes 
 * [hcloud-fip-controller](https://github.com/cbeneke/hcloud-fip-controller) — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances. 
