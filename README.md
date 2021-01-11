@@ -24,6 +24,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Package hcloud is a library for the Hetzner Cloud API.** 
 
+### HCL
+
+* [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver) — A simple module to provision the Hetzner Container Storage Interface Driver within a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.15 or newer. 
+
 ### Java
 
 * [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) — Simple Java client for the Hetzner Cloud API. 
