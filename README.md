@@ -65,6 +65,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) — A Prometheus exporter that connects to your HCloud account and collects data on your current expenses. 
 * [healthzner-bot](https://github.com/raphaelbernhart/healthznerbot) — A discord bot to get periodically updates of the health status of your hetzner cloud machines. 
 * [hetzner-cloud-api-mock](https://github.com/LKDevelopment/hetzner-cloud-api-mock) — A basic mock server that makes testing the Hetzner Cloud API a breeze. 
+* [hetzner-cloud-connect](https://github.com/BlueBambooStudios/hcloud-connect) — Handles automatically adding servers to load balancers 
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud. 
 * [hetzner-load-balancer-prometheus-exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) — Exports meterics from Hetner Load Balancer for consumption by Prometheus 
 * [kubeone](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters. 
