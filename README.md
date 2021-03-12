@@ -86,6 +86,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD 
 * [hcloud-ip-floater](https://github.com/costela/hcloud-ip-floater) — Kubernetes controller to attach hcloud floating IPs to services&#039; nodes. 
 * [hcloud-tg](https://github.com/Navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers. 
+* [hetzner-cloud-deploy-server-github-action](https://github.com/TimDaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action. 
 * [itop-datacollector-for-hetzner-cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks. 
 * [laravel-forge](https://forge.laravel.com/) — Laravel Hosting &amp; Instant PHP Servers on Hetzner Cloud 
 * [libcluster-hcloud](https://github.com/EightSQ/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster 
