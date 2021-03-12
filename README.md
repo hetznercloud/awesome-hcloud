@@ -68,6 +68,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud. 
 * [hetzner-load-balancer-prometheus-exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) — Exports meterics from Hetner Load Balancer for consumption by Prometheus 
 * [kubeone](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters. 
+* [kubernetes-hetzner-keepalived](https://github.com/schemen/kubernetes-hetzner-keepalived) — K8s deployment and image to create a keepalived ip failover with the floating ip feature. 
 
 ## Integrations
 
