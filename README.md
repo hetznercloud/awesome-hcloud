@@ -75,6 +75,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud** 
 * **[hetzner-cloud-ansible-collection](https://github.com/ansible-collections/hetzner.hcloud) — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).** 
 * **[hetzner-cloud-packer-builder](https://github.com/hashicorp/packer) — An official Packer.io Builder for Hetzner Cloud** 
+* **[kubernetes-cluster-autoscaler](https://github.com/kubernetes/autoscaler) — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.** 
 * **[prometheus-service-discovery](https://github.com/prometheus/prometheus) — A service discovery build into Prometheus to easily discover Hetzner servers (Cloud &amp; Dedicated)** 
 * **[terraform-provider](https://github.com/hetznercloud/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider** 
 * [algo-vpn](https://github.com/trailofbits/algo) — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN. 
