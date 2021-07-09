@@ -62,6 +62,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hcloud-assign-ip](https://github.com/lehuizi/hcloud_assign_ip) — A little helper to easily assign a floating ip to the current system 
 * [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover 
 * [hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) — A Prometheus exporter that connects to your HCloud account and collects data on your current expenses. 
+* [hcloud-snapshot-as-backup](https://github.com/fbrettnich/hcloud-snapshot-as-backup) — Hetzner Cloud - Automatic Snapshots as Backups for more flexibility 
 * [healthzner-bot](https://github.com/raphaelbernhart/healthznerbot) — A discord bot to get periodically updates of the health status of your hetzner cloud machines. 
 * [hetzner-cloud-connect](https://github.com/BlueBambooStudios/hcloud-connect) — Handles automatically adding servers to load balancers 
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud. 
