@@ -70,6 +70,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetzner-load-balancer-prometheus-exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) — Exports metrics from Hetzner Load Balancer for consumption by Prometheus 
 * [kubeone](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters. 
 * [kubernetes-hetzner-keepalived](https://github.com/schemen/kubernetes-hetzner-keepalived) — K8s deployment and image to create a keepalived ip failover with the floating ip feature. 
+* [hetzner-rescaler](https://github.com/jonamat/hetzner-rescaler) - Lightweight CLI tool to programmatically rescale your Hetzner Cloud machine daily.
 
 ## Integrations
 
