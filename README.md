@@ -57,6 +57,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ## Tools
 
 * **[hcloud-cli](https://github.com/hetznercloud/cli) — hcloud is a command-line interface for interacting with Hetzner Cloud.**
+* [ansible-role-hcloud](https://github.com/ngine-io/ansible-role-hcloud) — Ansible Role for managing hcloud cloud resources. 
 * [chaotic](https://github.com/ngine-io/chaotic) — Fault injection your Hetzner Cloud servers to ensure, your services run even with one server stopped. 
 * [cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) — Kubernetes Cluster API Provider for consistent deployment and day 2 operations of &quot;self-managed&quot; HA Kubernetes clusters on Hetzner. 
 * [dda-k8s-crate](https://github.com/DomainDrivenArchitecture/dda-k8s-crate) — dda-k8s-crate installs &amp; configures all in one server k8s on a Hetzner Cloud ubuntu system. 
