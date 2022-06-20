@@ -74,6 +74,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hobby-kube](https://github.com/hobby-kube/guide) — Fully automated cluster setup using Terraform, good balance between resilience and cost, and therefore a great starting point for hobbyists or to build a professional setup with a reasonable foundation. 
 * [kops](https://github.com/kubernetes/kops) — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management 
 * [kubeone](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters. 
+* [kubermatic-kubernetes-platform](https://docs.kubermatic.com/kubermatic) - Kubermatic Multi-Cluster and Mulit-Cloud management tool for self hosted cluster as a service purposes.
 * [kubernetes-hetzner-keepalived](https://github.com/schemen/kubernetes-hetzner-keepalived) — K8s deployment and image to create a keepalived ip failover with the floating ip feature. 
 
 ## Integrations
