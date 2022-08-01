@@ -27,6 +27,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### HCL
 
 * [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver) — A simple module to provision the Hetzner Container Storage Interface Driver within a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.15 or newer. 
+* [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) -  A highly optimized and auto-upgradable, HA-default & Load-Balanced, Kubernetes cluster powered by k3s-on-MicroOS and deployed for peanuts on Hetzner Cloud 🤑 🚀 
 
 ### Java
 
