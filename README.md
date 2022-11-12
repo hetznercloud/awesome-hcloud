@@ -93,6 +93,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hobby-kube](https://github.com/hobby-kube/guide) — Fully automated cluster setup using Terraform, good balance between resilience and cost, and therefore a great starting point for hobbyists or to build a professional setup with a reasonable foundation.
 
+* [hcloud-selfdestruct](https://github.com/worldworm/hcloud-selfdestruct) — CLI tool to self destruct a hetzner cloud server.
+
 
 ## Integrations
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
