@@ -1,0 +1,82 @@
+name: New Project
+description: Request to add a new project to awesome-hcloud
+title: "Add New Project: <project-name>"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Thanks for submitting a new project! ✨
+
+        Try to fill out the following form to the best of your knowledge.
+        This makes it easier for us to add your project to the list.
+        
+        Please note that we only add projects which are:
+        
+        - functional and of good quality
+        - related to Hetzner Cloud
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: What is the name of the new project?
+      placeholder: <project-name>
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: Provide a short summary of the projects key aspects.
+      placeholder: <project-name> helps you manage your server with ease!
+    validations:
+      required: true
+
+  - type: input
+    id: project-repository
+    attributes:
+      label: Link
+      description: Link to the project (preferably Open Source repository)
+      placeholder: https://github.com/your-name/your-project
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: |
+        In what section (Library, Tool, Integration) should the project be added?
+        You can leave this empty and we will choose the appropriate type.
+      options:
+        - Library
+        - Tool
+        - Integration
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: What programming language was used to create the project? **Required** for libraries.
+      options:
+        - .NET
+        - Bash
+        - Clojure
+        - Elixir
+        - Go
+        - HCL
+        - Java
+        - JavaScript
+        - Kotlin
+        - PHP
+        - Perl
+        - PowerShell
+        - Python
+        - Ruby
+        - Rust
+
+  - type: textarea
+    id: comments
+    attributes:
+      label: Further Comments
+      description: Anything else you want to say? Your project uses a programming language that is not in the list?
