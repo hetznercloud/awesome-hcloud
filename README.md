@@ -99,7 +99,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
 
-* [hetzner-k3s](https://github.com/janosmiko/hetzner-k3s) — CLI tool to install and manage production grade lightweight Kubernetes (k3s) clusters in 5 minutes in Hetzner. Features: Hetzner CCM and CSI support, HA, Multiple Worker Pools, Autoscaling etc.
+* [janosmiko/hetzner-k3s](https://github.com/janosmiko/hetzner-k3s) — CLI tool to install and manage production grade lightweight Kubernetes (k3s) clusters in 5 minutes in Hetzner. Features: Hetzner CCM and CSI support, HA, Multiple Worker Pools, Autoscaling etc.
 
 
 ## Integrations
