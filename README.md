@@ -97,11 +97,11 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [kubermatic-kubernetes-platform](https://docs.kubermatic.com/kubermatic) — Kubermatic Multi-Cluster and Mulit-Cloud management tool for self hosted cluster as a service purposes.
 
+* [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
+
 * [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) — A highly optimized and auto-upgradable, HA-default &amp; Load-Balanced, Kubernetes cluster powered by k3s-on-MicroOS and deployed for peanuts on Hetzner Cloud 🤑 🚀
 
 * [janosmiko/hetzner-k3s](https://github.com/janosmiko/hetzner-k3s) — CLI tool to install and manage production grade lightweight Kubernetes (k3s) clusters in 5 minutes in Hetzner. Features: Hetzner CCM and CSI support, HA, Multiple Worker Pools, Autoscaling etc.
-
-* [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
 
 ## Integrations
