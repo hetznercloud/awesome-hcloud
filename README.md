@@ -48,6 +48,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### Ruby
 * [hcloud-ruby](https://github.com/tonobo/hcloud-ruby) — Native ruby client for HetznerCloud
 
+* [hetznercloud](https://github.com/floriandejonckheere/hcloud) — Modern object-oriented Ruby wrapper for Hetzner Cloud API
+
 
 ### Rust
 * [hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust/) — Unofficial Rust crate for accessing the Hetzner Cloud API
