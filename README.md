@@ -21,6 +21,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Go
 * **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Package hcloud is a library for the Hetzner Cloud API.**
+* **[hcdns](https://github.com/acim/hcdns) — Go client library for Hetzner Cloud DNS API.**
 
 
 ### HCL
