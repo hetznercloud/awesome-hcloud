@@ -159,6 +159,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [GitLab Hetzner Runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
 
+* [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) - Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
+
 * [hcloud-tg](https://github.com/Navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
 
 * [terraform-kubernetes-hcloud-controller-manager](https://github.com/colinwilson/terraform-kubernetes-hcloud-controller-manager) — A simple module to provision the Hetzner Cloud Controller Manager (With Network &amp; Load Balancer Support) inside a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.16 or newer.
