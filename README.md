@@ -109,6 +109,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [terraform-hks](https://github.com/Stupremee/terraform-hcloud-hks) — An opinionated Terraform module for deploying a Hetzner Kubernetes Cluster using RKE2 and Hetzner Cloud.
 
+* [hetzner-app](https://github.com/mkay-development/svelte-hetzner-app) — Its a Svelte App to control the Hetzner Cloud via a mobile (PWA) App
+
 
 ## Integrations
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
