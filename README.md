@@ -177,6 +177,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
 
+* [Solidblocks RDS PostgreSQL](https://registry.terraform.io/modules/pellepelster/solidblocks-rds-postgresql/hcloud/latest) — A containerized PostgreSQL database with all batteries included backup solution powered by pgBackRest
+
 
 ## License
 
