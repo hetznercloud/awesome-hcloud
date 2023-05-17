@@ -109,6 +109,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [terraform-hks](https://github.com/Stupremee/terraform-hcloud-hks) — An opinionated Terraform module for deploying a Hetzner Kubernetes Cluster using RKE2 and Hetzner Cloud.
 
+* [Solidblocks Hetzner Nuke](https://pellepelster.github.io/solidblocks/hetzner/nuke/) — Solidblocks Hetzner Nuke is a tool to delete all resources in a Hetzner account, similar to aws-nuke.
+
 
 ## Integrations
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
