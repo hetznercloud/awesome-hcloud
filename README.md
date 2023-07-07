@@ -18,6 +18,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### .NET
 * [Hetzner Cloud API for .NET](https://github.com/lk-code/hetzner-cloud-api-net) — Hetzner Cloud API for .NET is a .NET Standard 2.0 Library
 
+* [Hetzner Cloud Doet Net](https://github.com/lk-code/hetzner-cloud-api-net) — This library is developed in .NET Standard 2.1 and is compatible with all .NET and .NET Core implementations, it can also be used in Console projects, Web API, Class Library and even with Blazor WASM .
+
 
 ### Go
 * **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Package hcloud is a library for the Hetzner Cloud API.**
