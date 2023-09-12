@@ -113,6 +113,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [Solidblocks Hetzner Nuke](https://pellepelster.github.io/solidblocks/hetzner/nuke/) — Solidblocks Hetzner Nuke is a tool to delete all resources in a Hetzner account, similar to aws-nuke.
 
+* [1Password Shell Plugin](https://developer.1password.com/docs/cli/shell-plugins/hetzner-cloud/) — The Hetzner Cloud shell plugin allows you to use 1Password to securely authenticate hcloud CLI with your fingerprint, Apple Watch, or system authentication, rather than storing your credentials in plaintext.
+
 
 ## Integrations
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
@@ -182,6 +184,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
 
 * [Solidblocks RDS PostgreSQL](https://registry.terraform.io/modules/pellepelster/solidblocks-rds-postgresql/hcloud/latest) — A containerized PostgreSQL database with all batteries included backup solution powered by pgBackRest
+
+* [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
 
 
 ## License
