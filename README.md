@@ -131,7 +131,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart
 
-* [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting &amp; Instant PHP Servers on Hetzner Cloud
+* [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 
 * [iTop Datacollector for Hetzner Cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks.
 
@@ -153,11 +153,9 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [libcluster_hcloud](https://github.com/EightSQ/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster
 
-* [ScaleChamp](https://www.scalechamp.com) — Managed databases provider with PostgreSQL, MySQL, KeyDB, Redis support across 11 public clouds including Hetzner Cloud.
+* [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting &amp; Instant PHP Servers on Hetzner Cloud
 
 * [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
-
-* [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 
 * [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it
 
