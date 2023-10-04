@@ -131,9 +131,9 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * **[Hetzner Cloud Ansible Collection](https://github.com/ansible-collections/hetzner.hcloud) — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).**
 
-* [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart
+* [libcluster_hcloud](https://github.com/EightSQ/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster
 
-* [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
+* [GitLab Hetzner Runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
 
 * [iTop Datacollector for Hetzner Cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks.
 
@@ -149,19 +149,19 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver
 
-* [Docker Volume Hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
+* [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart
 
 * [hcloud-csi-driver-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-csi-driver-helm-chart) — Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes
 
-* [libcluster_hcloud](https://github.com/EightSQ/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster
+* [Docker Volume Hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 
 * [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting &amp; Instant PHP Servers on Hetzner Cloud
 
-* [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
+* [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 
 * [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it
 
-* [GitLab Hetzner Runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
+* [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
 
 * [hcloud-tg](https://github.com/Navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
 
@@ -186,6 +186,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
 
 * [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) — A Terraform template for [Coder](https://github.com/coder/coder) to setup a cloud instance as dev environment with or without VS Code.
+
+* [Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.
 
 
 ## License
