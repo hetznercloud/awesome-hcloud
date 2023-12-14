@@ -189,6 +189,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.
 
+* [Paymenter.org Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
+
 
 ## License
 
