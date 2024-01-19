@@ -193,6 +193,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) — A Terraform template for [Coder](https://github.com/coder/coder) to setup a cloud instance as dev environment with or without VS Code.
 
+* [grafana-hcloud-datasource](https://github.com/apricote/grafana-hcloud-datasource) — Metrics for your Hetzner Cloud Servers and Load Balancers in Grafana.
+
 
 ## License
 
