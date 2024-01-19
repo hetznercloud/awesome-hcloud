@@ -67,6 +67,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover
 
+* [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
+
 * [HC Volume Backup](https://gitlab.com/MartinBoehmer/hc-volume-backup) — Bash script to backup Hetzner Cloud Volumes. Automatically creates volumes for backups and maintains a defined number of them.
 
 * [TestFlows GitHub Hetzner Runners](https://github.com/testflows/TestFlows-GitHub-Hetzner-Runners) — Autoscaling GitHub Actions self-hosted runners using Hetzner Cloud
@@ -74,8 +76,6 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [KubeOne](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters.
 
 * [Hetzner Load Balancer Prometheus Exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) — Exports metrics from Hetzner Load Balancer for consumption by Prometheus
-
-* [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
 
 * [Healthzner Bot](https://github.com/raphaelbernhart/healthznerbot) — A discord bot to get periodically updates of the health status of your hetzner cloud machines.
 
@@ -125,6 +125,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
 
+* **[Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.**
+
 * **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
 
 * **[Hetzner Cloud Packer Builder](https://github.com/hetznercloud/packer-plugin-hcloud) — An official Packer.io Builder for Hetzner Cloud**
@@ -135,9 +137,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it
 
-* [terraform-hcloud-routeros-router-configuration](https://github.com/selfscrum/terraform-hcloud-routeros-router-configuration) — Configures a Hetzner server with an RouterOS Router.
-
-* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
+* [Paymenter Server Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
 
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 
@@ -175,7 +175,9 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [terraform-hcloud-routeros-router](https://github.com/selfscrum/terraform-hcloud-routeros-router) — Terraform code to seamlessly integrate a RouterOS router into a Hetzner Cloud network.
 
-* [Paymenter Server Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
+* [terraform-hcloud-routeros-router-configuration](https://github.com/selfscrum/terraform-hcloud-routeros-router-configuration) — Configures a Hetzner server with an RouterOS Router.
+
+* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
 
 * [Hetzner Cloud Deploy Server Github Action](https://github.com/TimDaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action.
 
@@ -190,8 +192,6 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
 
 * [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) — A Terraform template for [Coder](https://github.com/coder/coder) to setup a cloud instance as dev environment with or without VS Code.
-
-* [Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.
 
 
 ## License
