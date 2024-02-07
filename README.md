@@ -65,6 +65,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * **[setup-hcloud](https://github.com/hetznercloud/setup-hcloud) — GitHub action to install the Hetzner Cloud CLI.**
 
+* [Healthzner Bot](https://github.com/raphaelbernhart/healthznerbot) — A discord bot to get periodically updates of the health status of your hetzner cloud machines.
+
 * [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover
 
 * [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
@@ -76,8 +78,6 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * [KubeOne](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters.
 
 * [Hetzner Load Balancer Prometheus Exporter](https://github.com/infraduckture/hetzner-load-balancer-prometheus-exporter) — Exports metrics from Hetzner Load Balancer for consumption by Prometheus
-
-* [Healthzner Bot](https://github.com/raphaelbernhart/healthznerbot) — A discord bot to get periodically updates of the health status of your hetzner cloud machines.
 
 * [hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) — A Prometheus exporter that connects to your HCloud account and collects data on your current expenses.
 
@@ -119,6 +119,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [hcloud assign ip](https://github.com/lehuizi/hcloud_assign_ip) — A little helper to easily assign a floating ip to the current system
 
+* [certmaster](https://github.com/poundifdef/certmaster) — Automatically creates Let&#39;s Encrypt certificates and uploads them to Hetzner Cloud Load Balancers. Useful if you do not use Hetzner DNS.
+
 
 ## Integrations
 * **[Terraform Provider](https://github.com/hetznercloud/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
@@ -138,8 +140,6 @@ work, are complete, nor that they do not cause any harm to your system or your a
 * **[Hetzner Cloud Ansible Collection](https://github.com/ansible-collections/hetzner.hcloud) — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).**
 
 * [hcloud-tg](https://github.com/Navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
-
-* [Paymenter Server Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
 
 * [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 
@@ -179,9 +179,11 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 * [terraform-hcloud-routeros-router-configuration](https://github.com/selfscrum/terraform-hcloud-routeros-router-configuration) — Configures a Hetzner server with an RouterOS Router.
 
-* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
+* [Paymenter Server Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
 
 * [Hetzner Cloud Deploy Server Github Action](https://github.com/TimDaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action.
+
+* [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
 
 * [scalr](https://github.com/ngine-io/scalr) — Autoscaling for Clouds - Scale Cloud instances based on policy checks in a configurable interval. With Hetzner Cloud and Prometheus support.
 
