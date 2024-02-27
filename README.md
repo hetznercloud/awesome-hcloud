@@ -106,6 +106,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) — A Terraform template for [Coder](https://github.com/coder/coder) to setup a cloud instance as dev environment with or without VS Code.
 - [Docker Volume Hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 - [GitLab Hetzner Runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
+- [Gitlab Fleeting plugin](https://gitlab.com/fleeting-plugin-hetzner/fleeting-plugin-hetzner) — A GitLab fleeting plugin for Hetzner Cloud.
 - [Hetzner Cloud Deploy Server Github Action](https://github.com/TimDaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action.
 - [Hetzner Cloud Plugin for Jenkins](https://github.com/jenkinsci/hetzner-cloud-plugin) — The Hetzner cloud plugin enables Jenkins CI to schedule builds on dynamically provisioned VMs in Hetzner Cloud.
 - [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting & Instant PHP Servers on Hetzner Cloud
