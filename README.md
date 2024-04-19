@@ -8,7 +8,7 @@ Projects formatted in **bold** are official Hetzner Cloud projects.
 - [Tools](#tools)
 - [Integrations](#integrations)
 
-Want to have your project listed? Open an Issue!
+Want to have your project listed? [Open an Issue](https://github.com/hetznercloud/awesome-hcloud/issues/new?assignees=&labels=&projects=&template=new-project.yml&title=Add+New+Project%3A+%3Cproject-name%3E)!
 
 **Please note that while we try to only include projects in this list which are
 functional and of good quality, we cannot provide any guarantee that they actually
