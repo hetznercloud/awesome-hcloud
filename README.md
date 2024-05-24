@@ -28,6 +28,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### HCL
 
+- [hcloud-user-data](https://github.com/wszychta/terraform-module.hcloud-user-data) — Terraform Module for ready to use user-data files for Hetzner cloud servers with multiple network managers
 - [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver) — A simple module to provision the Hetzner Container Storage Interface Driver within a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.15 or newer.
 
 ### Java
@@ -89,6 +90,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [terraform-hcloud-k3s](https://github.com/identiops/terraform-hcloud-k3s) — Comprehensive module for provisioning a k3s Kubernetes cluster on Hetzner Cloud.
 - [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) — A highly optimized and auto-upgradable, HA-default & Load-Balanced, Kubernetes cluster powered by k3s-on-MicroOS and deployed for peanuts on Hetzner Cloud 🤑 🚀
 - [terraform-hks](https://github.com/Stupremee/terraform-hcloud-hks) — An opinionated Terraform module for deploying a Hetzner Kubernetes Cluster using RKE2 and Hetzner Cloud.
+- [tg-cli](https://github.com/twingate-labs/tg-cli) — CLI to deploy [Twingate](https://www.twingate.com/) with support for Hetzner Cloud servers
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
 
 
