@@ -29,6 +29,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### HCL
 
 - [hcloud-user-data](https://github.com/wszychta/terraform-module.hcloud-user-data) — Terraform Module for ready to use user-data files for Hetzner cloud servers with multiple network managers
+- [terraform-hcloud-hetzner-node-pool](https://github.com/hegerdes/terraform-hcloud-hetzner-node-pool) — Terraform module to easily create VMs in the Hetzner Cloud and groups them in pools for easy scaling.
 - [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver) — A simple module to provision the Hetzner Container Storage Interface Driver within a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.15 or newer.
 
 ### Java
