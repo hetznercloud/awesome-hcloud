@@ -76,6 +76,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Kubernetes Hetzner Keepalived](https://github.com/schemen/kubernetes-hetzner-keepalived) — K8s deployment and image to create a keepalived ip failover with the floating ip feature.
 - [Solidblocks Hetzner Nuke](https://pellepelster.github.io/solidblocks/hetzner/nuke/) — Solidblocks Hetzner Nuke is a tool to delete all resources in a Hetzner account, similar to aws-nuke.
 - [TestFlows GitHub Hetzner Runners](https://github.com/testflows/TestFlows-GitHub-Hetzner-Runners) — Autoscaling GitHub Actions self-hosted runners using Hetzner Cloud
+- [VitoDeploy](https://github.com/vitodeploy/vito) — Vito is a self-hosted web application that helps you to manage your servers and deploy your PHP applications into production servers without a hassle.
 - [certmaster](https://github.com/poundifdef/certmaster) — Automatically creates Let's Encrypt certificates and uploads them to Hetzner Cloud Load Balancers. Useful if you do not use Hetzner DNS.
 - [chaotic](https://github.com/ngine-io/chaotic) — Fault injection your Hetzner Cloud servers to ensure, your services run even with one server stopped.
 - [cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) — Kubernetes Cluster API Provider for consistent deployment and day 2 operations of "self-managed" HA Kubernetes clusters on Hetzner.
