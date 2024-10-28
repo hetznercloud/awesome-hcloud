@@ -34,6 +34,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Java
 
+- [hcloud-java](https://github.com/CubitsDev/hcloud-java) — hcloud-java is a fully tested and easy to use Java API Integration. It follows an Observer Pattern and focuses on minimal dependency bloat.
 - [hetznercloud-java](https://github.com/TomSDEVSN/hetznercloud-java) — Simple Java client for the Hetzner Cloud API.
 
 ### JavaScript
@@ -95,6 +96,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [terraform-hks](https://github.com/Stupremee/terraform-hcloud-hks) — An opinionated Terraform module for deploying a Hetzner Kubernetes Cluster using RKE2 and Hetzner Cloud.
 - [tg-cli](https://github.com/twingate-labs/tg-cli) — CLI to deploy [Twingate](https://www.twingate.com/) with support for Hetzner Cloud servers
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
+- [zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) — Script to install Debian 10, 11, 12 and Ubuntu 18, 20, 22 LTS with ZFS root on Hetzner VPS.
 
 
 ## Integrations
@@ -118,6 +120,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Paymenter Server Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
 - [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
 - [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it
+- [ServerManagerBot](https://github.com/erfjab/ServerManagerBot) — ServerManagerBot is a Telegram bot for managing Hetzner servers. It allows admins to control server actions.
 - [Solidblocks RDS PostgreSQL](https://registry.terraform.io/modules/pellepelster/solidblocks-rds-postgresql/hcloud/latest) — A containerized PostgreSQL database with all batteries included backup solution powered by pgBackRest
 - [Versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB).
 - [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
