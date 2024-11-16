@@ -59,7 +59,9 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 - [hcloud-rust](https://github.com/HenningHolmDE/hcloud-rust/) — Unofficial Rust crate for accessing the Hetzner Cloud API
 
+### Kotlin 
 
+- [hetznerkloud](https://github.com/sasa-b/hetznerkloud) - Unofficial Kotlin module for Hetzner Cloud API
 
 ## Tools
 
