@@ -42,6 +42,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-js](https://github.com/dennisbruner/hcloud-js) — A Node.js module for the Hetzner Cloud API
 - [hcloud-nodejs](https://github.com/LeonSpors/hcloud-nodejs) — hcloud-nodejs is a node.js package for Hetzner cloud that can be used to manage your projects.
 
+### Kotlin
+
+- [hetznerkloud](https://github.com/sasa-b/hetznerkloud) — Kotlin library for Hetzner Cloud API
+
 ### PHP
 
 - [Hetzner Cloud PHP SDK](https://github.com/LKDevelopment/hetzner-cloud-php-sdk) — A PHP SDK for the Hetzner Cloud API: docs.hetzner.cloud
