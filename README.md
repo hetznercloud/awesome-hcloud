@@ -140,6 +140,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
 - [iTop Datacollector for Hetzner Cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks.
 - [libcluster_hcloud](https://github.com/EightSQ/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster
+- [robotlb](https://github.com/Intreecom/robotlb) — Cloud Load Balancers for Kubernetes clusters on Robot
 - [scalr](https://github.com/ngine-io/scalr) — Autoscaling for Clouds - Scale Cloud instances based on policy checks in a configurable interval. With Hetzner Cloud and Prometheus support.
 - [terraform-hcloud-routeros-router](https://github.com/selfscrum/terraform-hcloud-routeros-router) — Terraform code to seamlessly integrate a RouterOS router into a Hetzner Cloud network.
 - [terraform-hcloud-routeros-router-configuration](https://github.com/selfscrum/terraform-hcloud-routeros-router-configuration) — Configures a Hetzner server with an RouterOS Router.
