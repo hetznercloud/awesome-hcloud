@@ -135,6 +135,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart
 - [hcloud-csi-driver-helm-chart](https://gitlab.com/MatthiasLohr/hcloud-csi-driver-helm-chart) — Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes
 - [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD
+- [hcloud-github-runner](https://github.com/Cyclenerd/hcloud-github-runner) — On-demand self-hosted GitHub Actions Runner on Hetzner Cloud
 - [hcloud-tg](https://github.com/Navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
 - [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
 - [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
