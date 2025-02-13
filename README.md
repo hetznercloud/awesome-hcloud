@@ -116,6 +116,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
 - [Algo VPN](https://github.com/trailofbits/algo) — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN.
 - [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) — A Terraform template for [Coder](https://github.com/coder/coder) to setup a cloud instance as dev environment with or without VS Code.
+- [DevPod Provider](https://github.com/mrsimonemms/devpod-provider-hetzner) — Run [DevPod](https://github.com/loft-sh/devpod) cloud development environments on Hetzner
 - [Docker Volume Hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 - [GitLab Hetzner Runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
 - [Hetzner Cloud Deploy Server Github Action](https://github.com/TimDaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action.
