@@ -116,6 +116,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud**
 - **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
 - [Algo VPN](https://github.com/trailofbits/algo) — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN.
+- [Cloudfleet](https://cloudfleet.ai) — Managed Kubernetes platform with native Hetzner Cloud support for node-autoprovisioning.
 - [Coder Template](https://github.com/ntimo/coder-hetzner-cloud-template) — A Terraform template for [Coder](https://github.com/coder/coder) to setup a cloud instance as dev environment with or without VS Code.
 - [DevPod Provider](https://github.com/mrsimonemms/devpod-provider-hetzner) — Run [DevPod](https://github.com/loft-sh/devpod) cloud development environments on Hetzner.
 - [Docker Volume Hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
@@ -125,9 +126,11 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting & Instant PHP Servers on Hetzner Cloud
 - [Paymenter Server Extension](https://github.com/ha1fdan/HetznerCloudExtension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
 - [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
+- [Pulumi Hcloud Provider](https://www.pulumi.com/registry/packages/hcloud/) — A Pulumi Provider for setting up your infrastructure on hcloud with Pulumi.
 - [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it
 - [ServerManagerBot](https://github.com/erfjab/ServerManagerBot) — ServerManagerBot is a Telegram bot for managing Hetzner servers. It allows admins to control server actions.
 - [Solidblocks RDS PostgreSQL](https://registry.terraform.io/modules/pellepelster/solidblocks-rds-postgresql/hcloud/latest) — A containerized PostgreSQL database with all batteries included backup solution powered by pgBackRest
+- [Syself](https://cloudfleet.ai) — A Kubernetes platform with self-healing, declarative management, GitOps compatibility and support for autoscaling and dedicated servers.
 - [Versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB).
 - [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
 - [docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
