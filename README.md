@@ -32,6 +32,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [terraform-hcloud-hetzner-node-pool](https://github.com/hegerdes/terraform-hcloud-hetzner-node-pool) — Terraform module to easily create VMs in the Hetzner Cloud and groups them in pools for easy scaling.
 - [terraform-kubernetes-hcloud-csi-driver](https://github.com/colinwilson/terraform-kubernetes-hcloud-csi-driver) — A simple module to provision the Hetzner Container Storage Interface Driver within a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.15 or newer.
 
+### Haskell
+
+- [hetzner](https://codeberg.org/daniel-casanueva/hetzner) — Haskell library to interact with the Hetzner API.
+
 ### Java
 
 - [hcloud-java](https://github.com/cubitsdev/hcloud-java) — hcloud-java is a fully tested and easy to use Java API Integration. It follows an Observer Pattern and focuses on minimal dependency bloat.
