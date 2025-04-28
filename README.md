@@ -115,7 +115,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - **[Hetzner Cloud Packer Builder](https://github.com/hetznercloud/packer-plugin-hcloud) — An official Packer.io Builder for Hetzner Cloud**
 - **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
 - **[Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.**
-- **[Prometheus Service Discovery](https://github.com/prometheus/prometheus) — A service discovery build into Prometheus to easily discover Hetzner servers (Cloud & Dedicated)**
+- **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) to easily discover Hetzner servers (Cloud & Dedicated)**
 - **[Terraform Provider](https://github.com/hetznercloud/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
 - **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud**
 - **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
