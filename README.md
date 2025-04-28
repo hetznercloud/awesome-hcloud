@@ -115,7 +115,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - **[Hetzner Cloud Packer Builder](https://github.com/hetznercloud/packer-plugin-hcloud) — An official Packer.io Builder for Hetzner Cloud**
 - **[Kubernetes Cluster Autoscaler](https://github.com/kubernetes/autoscaler) — A k8s component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes.**
 - **[Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.**
-- **[Prometheus Service Discovery](https://github.com/prometheus/prometheus) — A service discovery build into Prometheus to easily discover Hetzner servers (Cloud & Dedicated)**
+- **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) to easily discover Hetzner servers (Cloud & Dedicated)**
 - **[Terraform Provider](https://github.com/hetznercloud/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
 - **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud**
 - **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
@@ -146,10 +146,12 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD
 - [hcloud-github-runner](https://github.com/cyclenerd/hcloud-github-runner) — On-demand self-hosted GitHub Actions Runner on Hetzner Cloud
 - [hcloud-tg](https://github.com/navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
+- [hetzner-bare-metal-ansible](https://github.com/palark/hetzner-bare-metal-ansible) — Ansible playbook for deploying Linux bare-metal servers in Hetzner using Hetzner Robot API.
 - [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
 - [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
 - [iTop Datacollector for Hetzner Cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks.
 - [libcluster_hcloud](https://github.com/eightsq/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster
+- [mcp-hetzner](https://github.com/dkruyt/mcp-hetzner) — A Model Context Protocol (MCP) server for interacting with the Hetzner Cloud API. This server allows language models to manage Hetzner Cloud resources through structured functions.
 - [robotlb](https://github.com/intreecom/robotlb) — Cloud Load Balancers for Kubernetes clusters on Robot
 - [scalr](https://github.com/ngine-io/scalr) — Autoscaling for Clouds - Scale Cloud instances based on policy checks in a configurable interval. With Hetzner Cloud and Prometheus support.
 - [terraform-hcloud-routeros-router](https://github.com/selfscrum/terraform-hcloud-routeros-router) — Terraform code to seamlessly integrate a RouterOS router into a Hetzner Cloud network.
