@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hetznercloud-awesome-hcloud-badge.png)](https://mseep.ai/app/hetznercloud-awesome-hcloud)
+
 # Awesome Hetzner Cloud
 
 A curated list of libraries, tools, and integrations for [Hetzner Cloud](https://cloud.hetzner.com/).
