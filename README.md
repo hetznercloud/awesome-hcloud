@@ -25,6 +25,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 - **[hcloud-go](https://github.com/hetznercloud/hcloud-go) — Package hcloud is a library for the Hetzner Cloud API.**
 - [hcdns](https://github.com/acim/hcdns) — Go client library for Hetzner DNS API.
+- [hetzner-golang-actions](https://github.com/mrsimonemms/hetzner-golang-actions) — Hetzner Golang action completion - the missing part of the Hetzner Golang SDK.
 
 ### HCL
 
