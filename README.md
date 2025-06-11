@@ -139,6 +139,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB).
 - [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
 - [docker-machine-driver-hetzner](https://github.com/jonasprogrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
+- [gardener-extension-provider-hcloud](https://github.com/23technologies/gardener-extension-provider-hcloud) — Gardener Extension for Hetzner Cloud provider.
 - [grafana-hcloud-datasource](https://github.com/apricote/grafana-hcloud-datasource) — Metrics for your Hetzner Cloud Servers and Load Balancers in Grafana.
 - [hcloud IP Floater](https://github.com/costela/hcloud-ip-floater) — Kubernetes controller to attach hcloud floating IPs to services' nodes.
 - [hcloud fip controller](https://github.com/cbeneke/hcloud-fip-controller) — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances.
