@@ -113,6 +113,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ## Integrations
 
+- **[External DNS Hetzner Webhook](https://github.com/hetzner/external-dns-hetzner-webhook) — This webhook provides integration between External DNS and the Hetzner DNS API to manage records automatically.**
 - **[Gitlab Fleeting plugin](https://gitlab.com/hetznercloud/fleeting-plugin-hetzner) — A GitLab fleeting plugin for Hetzner Cloud.**
 - **[Hetzner Cloud Ansible Collection](https://github.com/ansible-collections/hetzner.hcloud) — Ansible Collection for Hetzner Cloud. Part of Ansible Community Distribution (ACD).**
 - **[Hetzner Cloud Packer Builder](https://github.com/hetznercloud/packer-plugin-hcloud) — An official Packer.io Builder for Hetzner Cloud**
@@ -120,6 +121,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - **[Molecule driver for Hetzner Cloud](https://github.com/ansible-community/molecule-hetznercloud) — A molecule driver allowing you to use on-demand Hetzner Cloud servers for your tests.**
 - **[Prometheus Service Discovery](https://community.hetzner.com/tutorials/prometheus-discovery) — A service discovery build into [Prometheus](https://github.com/prometheus/prometheus) to easily discover Hetzner servers (Cloud & Dedicated)**
 - **[Terraform Provider](https://github.com/hetznercloud/terraform-provider-hcloud) — Official Hetzner Cloud Terraform Provider**
+- **[cert-manager Webhook Hetzner](https://github.com/hetzner/cert-manager-webhook-hetzner) — This webhook provides integration between cert-manager and the Hetzner DNS API to handle DNS-01 challenges.**
 - **[hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) — Kubernetes cloud-controller-manager for Hetzner Cloud**
 - **[hcloud-csi](https://github.com/hetznercloud/csi-driver) — Container Storage Interface driver for Hetzner Cloud**
 - [Algo VPN](https://github.com/trailofbits/algo) — Algo VPN is a set of Ansible scripts that simplify the setup of a personal Wireguard and IPSEC VPN.
