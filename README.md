@@ -74,6 +74,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 - **[hcloud cli](https://github.com/hetznercloud/cli) — hcloud is a command-line interface for interacting with Hetzner Cloud.**
 - **[setup-hcloud](https://github.com/hetznercloud/setup-hcloud) — GitHub action to install the Hetzner Cloud CLI.**
+- [hicloud](https://github.com/rtulke/hicloud) - hicloud aka hetzner interactive cloud is TUI for interacting with Hetzner Cloud by using commands, wizards and tab-completions including ressources
 - [1Password Shell Plugin](https://developer.1password.com/docs/cli/shell-plugins/hetzner-cloud/) — The Hetzner Cloud shell plugin allows you to use 1Password to securely authenticate hcloud CLI with your fingerprint, Apple Watch, or system authentication, rather than storing your credentials in plaintext.
 - [Ansible Role hcloud](https://github.com/ngine-io/ansible-role-hcloud) — Ansible Role for managing hcloud cloud resources.
 - [HC Volume Backup](https://gitlab.com/martinboehmer/hc-volume-backup) — Bash script to backup Hetzner Cloud Volumes. Automatically creates volumes for backups and maintains a defined number of them.
