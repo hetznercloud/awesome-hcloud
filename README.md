@@ -98,6 +98,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-selfdestruct](https://github.com/worldworm/hcloud-selfdestruct) — CLI tool to self destruct a hetzner cloud server.
 - [hcloud-upload-image](https://github.com/apricote/hcloud-upload-image) — Quickly upload any raw disk images into your Hetzner Cloud projects!
 - [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
+- [hicloud](https://github.com/rtulke/hicloud) — aka hetzner interactive cloud is TUI for interacting with Hetzner Cloud by using commands, wizards and tab-completions including resources.
 - [hobby-kube](https://github.com/hobby-kube/guide) — Fully automated cluster setup using Terraform, good balance between resilience and cost, and therefore a great starting point for hobbyists or to build a professional setup with a reasonable foundation.
 - [janosmiko/hetzner-k3s](https://github.com/janosmiko/hetzner-k3s) — CLI tool to install and manage production grade lightweight Kubernetes (k3s) clusters in 5 minutes in Hetzner. Features: Hetzner CCM and CSI support, HA, Multiple Worker Pools, Autoscaling etc.
 - [kOps](https://github.com/kubernetes/kops) — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management
@@ -155,6 +156,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hetzner-bare-metal-ansible](https://github.com/palark/hetzner-bare-metal-ansible) — Ansible playbook for deploying Linux bare-metal servers in Hetzner using Hetzner Robot API.
 - [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
 - [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
+- [hetzner-metal-kubernetes](https://github.com/cisnerosf/hetzner-metal-kubernetes) — Automates deploying Kubernetes (single-server or HA) on Hetzner dedicated servers with Fedora CoreOS using Ansible. Includes network and security setup.
 - [hetzner-server-manager](https://github.com/alfiosalanitri/hetzner-server-manager) — Simple, self-hosted web application to manage multiple Hetzner Cloud servers and projects from a single, clean interface. Built with Python, Flask, and Tailwind CSS, and fully containerized with Docker.
 - [iTop Datacollector for Hetzner Cloud](https://github.com/itomig-de/itomig-hetzner-collector) — This stand-alone application collects information from Hetzner projects in order to automatically synchronize the farms and virtual machines in iTop. iTop is a web based open source tool for IT service management tasks.
 - [libcluster_hcloud](https://github.com/eightsq/libcluster_hcloud) — This is a Hetzner Cloud clustering strategy for libcluster
