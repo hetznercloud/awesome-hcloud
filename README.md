@@ -110,6 +110,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [tg-cli](https://github.com/twingate-labs/tg-cli) — CLI to deploy [Twingate](https://www.twingate.com/) with support for Hetzner Cloud servers
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) — A CLI tool written in Crystal to quickly create and manage Kubernetes clusters in Hetzner Cloud
 - [zfs-hetzner-vm](https://github.com/terem42/zfs-hetzner-vm) — Script to install Debian 10, 11, 12 and Ubuntu 18, 20, 22 LTS with ZFS root on Hetzner VPS.
+- [prometheus-storagebox-exporter](https://github.com/crstian19/prometheus-storagebox-exporter) - Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics 
 
 
 ## Integrations
