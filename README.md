@@ -44,7 +44,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### JavaScript
 
-- [hcloud-js](https://github.com/dennisbruner/hcloud-js) — A Node.js module for the Hetzner Cloud API
+- [hcloud-js](https://github.com/dennisbruner/hcloud-js) — A Node.js module for the Hetzner Cloud API — ⚠️ Deprecated
 - [hcloud-nodejs](https://github.com/leonspors/hcloud-nodejs) — hcloud-nodejs is a node.js package for Hetzner cloud that can be used to manage your projects.
 
 ### Kotlin
@@ -91,7 +91,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [certmaster](https://github.com/poundifdef/certmaster) — Automatically creates Let's Encrypt certificates and uploads them to Hetzner Cloud Load Balancers. Useful if you do not use Hetzner DNS.
 - [chaotic](https://github.com/ngine-io/chaotic) — Fault injection your Hetzner Cloud servers to ensure, your services run even with one server stopped.
 - [cluster-api-provider-hetzner](https://github.com/syself/cluster-api-provider-hetzner) — Kubernetes Cluster API Provider for consistent deployment and day 2 operations of "self-managed" HA Kubernetes clusters on Hetzner.
-- [hcloud assign ip](https://github.com/lehuizi/hcloud_assign_ip) — A little helper to easily assign a floating ip to the current system
+- [hcloud assign ip](https://github.com/lehuizi/hcloud_assign_ip) — A little helper to easily assign a floating ip to the current system — ⚠️ Deprecated
 - [hcloud-failover-keepalived](https://github.com/lehuizi/hcloud-failover-keepalived) — Script for switching Floating IPs in case of keepalived failover
 - [hcloud-kubernetes](https://github.com/hcloud-k8s/terraform-hcloud-kubernetes) — Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes Cluster on Hetzner Cloud.
 - [hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) — A Prometheus exporter that connects to your HCloud account and collects data on your current expenses.
@@ -135,10 +135,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Hetzner Cloud Deploy Server Github Action](https://github.com/timdaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action.
 - [Hetzner Cloud Plugin for Jenkins](https://github.com/jenkinsci/hetzner-cloud-plugin) — The Hetzner cloud plugin enables Jenkins CI to schedule builds on dynamically provisioned VMs in Hetzner Cloud.
 - [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting & Instant PHP Servers on Hetzner Cloud
-- [Paymenter Server Extension](https://github.com/ha1fdan/hetznercloudextension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension.
+- [Paymenter Server Extension](https://github.com/ha1fdan/hetznercloudextension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension. — ⚠️ Deprecated
 - [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
 - [Pulumi Hcloud Provider](https://www.pulumi.com/registry/packages/hcloud/) — A Pulumi Provider for setting up your infrastructure on hcloud with Pulumi.
-- [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it
+- [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it — ⚠️ Deprecated
 - [ServerManagerBot](https://github.com/erfjab/servermanagerbot) — ServerManagerBot is a Telegram bot for managing Hetzner servers. It allows admins to control server actions.
 - [Solidblocks RDS PostgreSQL](https://registry.terraform.io/modules/pellepelster/solidblocks-rds-postgresql/hcloud/latest) — A containerized PostgreSQL database with all batteries included backup solution powered by pgBackRest
 - [Syself](https://syself.com) — A Kubernetes platform with self-healing, declarative management, GitOps compatibility and support for autoscaling and dedicated servers.
@@ -155,7 +155,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-github-runner](https://github.com/cyclenerd/hcloud-github-runner) — On-demand self-hosted GitHub Actions Runner on Hetzner Cloud
 - [hcloud-tg](https://github.com/navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
 - [hetzner-bare-metal-ansible](https://github.com/palark/hetzner-bare-metal-ansible) — Ansible playbook for deploying Linux bare-metal servers in Hetzner using Hetzner Robot API.
-- [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol.
+- [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol. — ⚠️ Deprecated
 - [hetzner-machine-provider](https://github.com/bonsai-oss/hetzner-machine-provider) — Gitlab-runner custom driver executing jobs on plain Hetzner Cloud machines like GitHub actions.
 - [hetzner-metal-kubernetes](https://github.com/cisnerosf/hetzner-metal-kubernetes) — Automates deploying Kubernetes (single-server or HA) on Hetzner dedicated servers with Fedora CoreOS using Ansible. Includes network and security setup.
 - [hetzner-server-manager](https://github.com/alfiosalanitri/hetzner-server-manager) — Simple, self-hosted web application to manage multiple Hetzner Cloud servers and projects from a single, clean interface. Built with Python, Flask, and Tailwind CSS, and fully containerized with Docker.
@@ -168,7 +168,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [terraform-hcloud-routeros-router](https://github.com/selfscrum/terraform-hcloud-routeros-router) — Terraform code to seamlessly integrate a RouterOS router into a Hetzner Cloud network.
 - [terraform-hcloud-routeros-router-configuration](https://github.com/selfscrum/terraform-hcloud-routeros-router-configuration) — Configures a Hetzner server with an RouterOS Router.
 - [terraform-kubernetes-hcloud-controller-manager](https://github.com/colinwilson/terraform-kubernetes-hcloud-controller-manager) — A simple module to provision the Hetzner Cloud Controller Manager (With Network & Load Balancer Support) inside a Kubernetes cluster running on Hetzner Cloud. See the variables file for the available configuration options. Please note that this module requires Kubernetes 1.16 or newer.
-- [terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) — A Terraform provider that helps you automate management of DNS zones and records at Hetzner DNS.
+- [terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) — A Terraform provider that helps you automate management of DNS zones and records at Hetzner DNS. — ⚠️ Deprecated
 - [ui-driver-hetzner](https://github.com/mxschmitt/ui-driver-hetzner) — Rancher UI driver for the Hetzner Cloud docker-machine-driver
 
 
