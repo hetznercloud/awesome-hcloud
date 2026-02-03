@@ -46,6 +46,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 - [hcloud-js](https://github.com/dennisbruner/hcloud-js) — A Node.js module for the Hetzner Cloud API — ⚠️ Deprecated
 - [hcloud-nodejs](https://github.com/leonspors/hcloud-nodejs) — hcloud-nodejs is a node.js package for Hetzner cloud that can be used to manage your projects.
+- [hetzner-cloud-openapi-client](https://codeberg.org/small-tech/hetzner-cloud-openapi-client) - Hetzner Cloud OpenAPI Client generated from the official specification using Massimo.
 
 ### Kotlin
 
