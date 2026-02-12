@@ -74,6 +74,7 @@ body:
         - Python
         - Ruby
         - Rust
+        - Swift
 
   - type: textarea
     id: comments
