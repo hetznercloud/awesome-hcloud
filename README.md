@@ -40,7 +40,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ### Java
 
 - [hcloud-java](https://github.com/cubitsdev/hcloud-java) — hcloud-java is a fully tested and easy to use Java API Integration. It follows an Observer Pattern and focuses on minimal dependency bloat.
-- [hetznercloud-java](https://github.com/tomsdevsn/hetznercloud-java) — Simple Java client for the Hetzner Cloud API.
+- [hetznercloud-java](https://codeberg.org/sinuscosinustan/hetznercloud-java) — Simple Java client for the Hetzner Cloud API.
 
 ### JavaScript
 
@@ -146,6 +146,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Syself](https://syself.com) — A Kubernetes platform with self-healing, declarative management, GitOps compatibility and support for autoscaling and dedicated servers.
 - [Versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB).
 - [ansible-hcloud-inventory](https://github.com/hg8496/ansible-hcloud-inventory) — An dynamic inventory script for hetzner cloud
+- [certbot-hook-hetzner](https://codeberg.org/simon-kolkmann/certbot-hook-hetzner) — A binary to solve DNS-01 challenges over the Hetzner API via Certbots --manual-auth-hook and --manual-cleanup-hook flags.
 - [crossplane-provider-hetzner](https://github.com/miaits/provider-hetzner) — A [Crossplane](https://www.crossplane.io/) provider that lets you manage Hetzner Cloud infrastructure using Kubernetes objects.
 - [docker-machine-driver-hetzner](https://github.com/jonasprogrammer/docker-machine-driver-hetzner) — This library adds the support for creating Docker machines hosted on the Hetzner Cloud.
 - [gardener-extension-provider-hcloud](https://github.com/23technologies/gardener-extension-provider-hcloud) — Gardener Extension for Hetzner Cloud provider.
