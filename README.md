@@ -141,7 +141,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
 - [Pulumi Hcloud Provider](https://www.pulumi.com/registry/packages/hcloud/) — A Pulumi Provider for setting up your infrastructure on hcloud with Pulumi.
 - [Rancher on Hetzner Cloud](https://github.com/alexzimmer96/rancher-hcloud) — Prebuild Terraform templates for deploying a highly available RKE cluster on Hetzner Cloud and installing Rancher into it — ⚠️ Deprecated
-- [ServerManagerBot](https://github.com/erfjab/servermanagerbot) — ServerManagerBot is a Telegram bot for managing Hetzner servers. It allows admins to control server actions.
+- [ServerManagerBot](https://github.com/erfjab/servermanagerbot) — ServerManagerBot is a Telegram bot for managing Hetzner servers. It allows admins to control server actions. — ⚠️ Deprecated
 - [Solidblocks RDS PostgreSQL](https://registry.terraform.io/modules/pellepelster/solidblocks-rds-postgresql/hcloud/latest) — A containerized PostgreSQL database with all batteries included backup solution powered by pgBackRest
 - [Syself](https://syself.com) — A Kubernetes platform with self-healing, declarative management, GitOps compatibility and support for autoscaling and dedicated servers.
 - [Versio-io](https://www.versio.io/import-hetzner-cloud-cmdb-configuration-item.html) — Integration of Hetzner Cloud configuration items (CI) in the full stack Versio.io configuration management database (CMDB).
