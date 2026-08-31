@@ -50,6 +50,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 
 ### Kotlin
 
+- [Solidblocks Hetzner Cloud API](https://pellepelster.github.io/solidblocks/hetzner/cloud-api-kotlin/) — Kotlin library for Hetzner cloud API access.
 - [hetznerkloud](https://github.com/sasa-b/hetznerkloud) — Kotlin library for Hetzner Cloud API
 
 ### PHP
@@ -88,6 +89,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [Hetzner rescaler](https://github.com/jonamat/hetzner-rescaler) — Lightweight CLI tool to programmatically rescale your Hetzner Cloud server.
 - [KubeOne](https://github.com/kubermatic/kubeone) — Kubermatic KubeOne automates cluster operations on hetzner cloud. KubeOne can install high-available (HA) master clusters as well single master clusters.
 - [Kubernetes Hetzner Keepalived](https://github.com/schemen/kubernetes-hetzner-keepalived) — K8s deployment and image to create a keepalived ip failover with the floating ip feature.
+- [Solidblocks CLI hetzner-nuke](https://pellepelster.github.io/solidblocks/cli/nuke/) — blcks hetzner nuke deletes all resources in a Hetzner account, similar to aws-nuke.
+- [Solidblocks Cloud](https://pellepelster.github.io/solidblocks/cloud/index.html) — Managed services on the Hetzner Cloud
 - [Solidblocks Hetzner Nuke](https://pellepelster.github.io/solidblocks/hetzner/nuke/) — Solidblocks Hetzner Nuke is a tool to delete all resources in a Hetzner account, similar to aws-nuke.
 - [TestFlows GitHub Hetzner Runners](https://github.com/testflows/testflows-github-hetzner-runners) — Autoscaling GitHub Actions self-hosted runners using Hetzner Cloud
 - [VitoDeploy](https://github.com/vitodeploy/vito) — Vito is a self-hosted web application that helps you to manage your servers and deploy your PHP applications into production servers without a hassle.
@@ -100,6 +103,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-pricing-exporter](https://github.com/jangraefen/hcloud-pricing-exporter) — A Prometheus exporter that connects to your HCloud account and collects data on your current expenses.
 - [hcloud-selfdestruct](https://github.com/worldworm/hcloud-selfdestruct) — CLI tool to self destruct a hetzner cloud server.
 - [hcloud-upload-image](https://github.com/apricote/hcloud-upload-image) — Quickly upload any raw disk images into your Hetzner Cloud projects!
+- [hetzner-images](https://github.com/mystack-cloud/hetzner-images) — Hetzner bootimages as multi-arch container images on GitHub Container Registry.
 - [hetzner-kube](https://github.com/xetys/hetzner-kube) — This project contains a CLI tool to easily provision kubernetes clusters on Hetzner Cloud.
 - [hicloud](https://github.com/rtulke/hicloud) — aka hetzner interactive cloud is TUI for interacting with Hetzner Cloud by using commands, wizards and tab-completions including resources.
 - [hobby-kube](https://github.com/hobby-kube/guide) — Fully automated cluster setup using Terraform, good balance between resilience and cost, and therefore a great starting point for hobbyists or to build a professional setup with a reasonable foundation.
@@ -107,6 +111,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [kOps](https://github.com/kubernetes/kops) — Kubernetes Operations (kOps) automates Kubernetes cluster installation, upgrades and management
 - [kubermatic-kubernetes-platform](https://docs.kubermatic.com/kubermatic) — Kubermatic Multi-Cluster and Mulit-Cloud management tool for self hosted cluster as a service purposes.
 - [prometheus-storagebox-exporter](https://github.com/crstian19/prometheus-storagebox-exporter) — Modern Prometheus exporter for Hetzner Storage Box with comprehensive metrics.
+- [purple](https://github.com/erickochen/purple) — SSH client TUI with built-in Hetzner Cloud sync. Auto-discovers servers, syncs metadata (location, type, image, status), provider tags and stale host detection.
 - [terraform-hcloud-k3s](https://github.com/identiops/terraform-hcloud-k3s) — Comprehensive module for provisioning a k3s Kubernetes cluster on Hetzner Cloud.
 - [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) — A highly optimized and auto-upgradable, HA-default & Load-Balanced, Kubernetes cluster powered by k3s-on-MicroOS and deployed for peanuts on Hetzner Cloud 🤑 🚀
 - [terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) — Terraform module for creating a Kubernetes cluster with [Talos](https://www.talos.dev/) in the Hetzner Cloud.
@@ -137,6 +142,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [GitLab Hetzner Runner](https://git.shivering-isles.com/shivering-isles/gitlab-hetzner-runner) — A version of the gitlab-runner base image, that allows the usage of Hetzner Cloud instances for GitLab CI.
 - [Hetzner Cloud Deploy Server Github Action](https://github.com/timdaub/hetzner-cloud-deploy-server-action) — Deploy a Hetzner Cloud Server from a GitHub Action.
 - [Hetzner Cloud Plugin for Jenkins](https://github.com/jenkinsci/hetzner-cloud-plugin) — The Hetzner cloud plugin enables Jenkins CI to schedule builds on dynamically provisioned VMs in Hetzner Cloud.
+- [Hetzner Cloudflare Telegram bot](https://github.com/Pixelate1/Hetzner_Cloudflare_Telegram_bot) — A secure Telegram bot to manage your Hetzner Cloud servers and automatically update Cloudflare DNS records.
 - [Laravel Forge](https://forge.laravel.com/) — Laravel Hosting & Instant PHP Servers on Hetzner Cloud
 - [Paymenter Server Extension](https://github.com/ha1fdan/hetznercloudextension) — Simplify Hetzner Cloud server orders with this Paymenter.org extension. — ⚠️ Deprecated
 - [Ploi](https://ploi.io) — Rapidly deploy any site you like on Hetzner Cloud servers.
