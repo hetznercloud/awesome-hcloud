@@ -163,6 +163,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud-csi-driver-helm-chart](https://gitlab.com/matthiaslohr/hcloud-csi-driver-helm-chart) — Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes
 - [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD
 - [hcloud-github-runner](https://github.com/cyclenerd/hcloud-github-runner) — On-demand self-hosted GitHub Actions Runner on Hetzner Cloud
+- [hcloud-operator](https://github.com/shebang-labs/hcloud-operator) — Kubernetes operator that manages a whole Hetzner Cloud project declaratively. Servers, volumes, networks, firewalls, load balancers, IPs, certificates, images, SSH keys and placement groups are CRDs, applied like any other Kubernetes resource and installed via Helm.
 - [hcloud-tg](https://github.com/navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
 - [hetzner-bare-metal-ansible](https://github.com/palark/hetzner-bare-metal-ansible) — Ansible playbook for deploying Linux bare-metal servers in Hetzner using Hetzner Robot API.
 - [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol. — ⚠️ Deprecated
