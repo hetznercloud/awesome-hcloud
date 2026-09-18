@@ -78,6 +78,8 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - **[setup-hcloud](https://github.com/hetznercloud/setup-hcloud) — GitHub action to install the Hetzner Cloud CLI.**
 - [1Password Shell Plugin](https://developer.1password.com/docs/cli/shell-plugins/hetzner-cloud/) — The Hetzner Cloud shell plugin allows you to use 1Password to securely authenticate hcloud CLI with your fingerprint, Apple Watch, or system authentication, rather than storing your credentials in plaintext.
 - [Ansible Role hcloud](https://github.com/ngine-io/ansible-role-hcloud) — Ansible Role for managing hcloud cloud resources.
+- [Cloud Radar](https://radar.spors.io) — Monitoring dashboard for infrastructure providers such as Hetzner Cloud. Displays server availability, pricing comparisons, locations, and historical capacity data, with alerting via email, Telegram, Discord, or ntfy.sh.
+- [CostGoat Hetzner Pricing Calculator](https://costgoat.com/pricing/hetzner) — Interactive Hetzner Cloud VPS pricing calculator to compare CX, CAX, CPX, CCX instances across regions with storage, backups, and traffic overage.
 - [HC Volume Backup](https://gitlab.com/martinboehmer/hc-volume-backup) — Bash script to backup Hetzner Cloud Volumes. Automatically creates volumes for backups and maintains a defined number of them.
 - [HCloud Menubar](https://github.com/geberl/hcloud-menubar) — A lightweight macOS menu bar app for managing Hetzner Cloud resources
 - [Hcloud Snapshot-as-Backup](https://github.com/fbrettnich/hcloud-snapshot-as-backup) — Hetzner Cloud - Automatic Snapshots as Backups for more flexibility
@@ -161,8 +163,10 @@ work, are complete, nor that they do not cause any harm to your system or your a
 - [hcloud fip controller](https://github.com/cbeneke/hcloud-fip-controller) — Kubernetes controller to (re-)assign floating IPs to Hetzner Cloud instances.
 - [hcloud-cloud-controller-manager-helm-chart](https://gitlab.com/matthiaslohr/hcloud-cloud-controller-manager-helm-chart) — Hetzner Cloud - Cloud Controller Manager Helm Chart
 - [hcloud-csi-driver-helm-chart](https://gitlab.com/matthiaslohr/hcloud-csi-driver-helm-chart) — Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes
+- [hcloud-csi-rwx](https://github.com/mrhein/hcloud-csi-rwx) — RWX (ReadWriteMany) volume support for Hetzner Cloud CSI, extending the block storage (RWO only) driver using the same architecture as Longhorn's share-manager.
 - [hcloud-freebsd](https://github.com/paulc/hcloud-freebsd) — Hetzner Cloud auto-provisioning for FreeBSD
 - [hcloud-github-runner](https://github.com/cyclenerd/hcloud-github-runner) — On-demand self-hosted GitHub Actions Runner on Hetzner Cloud
+- [hcloud-metallb-controller](https://github.com/RobSlgm/hcloud-metallb-controller) — Kubernetes controller to attach floating IPs or private network alias IPs to a node selected by MetalLB.
 - [hcloud-tg](https://github.com/navid2zp/hcloud-tg) — Telegram bot for managing Hetzner cloud servers.
 - [hetzner-bare-metal-ansible](https://github.com/palark/hetzner-bare-metal-ansible) — Ansible playbook for deploying Linux bare-metal servers in Hetzner using Hetzner Robot API.
 - [hetzner-dyndns](https://github.com/marvinruder/hetzner-dyndns) — A proxy server for updating DNS records on Hetzner DNS using the DynDNS protocol. — ⚠️ Deprecated
