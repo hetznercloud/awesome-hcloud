@@ -9,9 +9,9 @@ body:
 
         Try to fill out the following form to the best of your knowledge.
         This makes it easier for us to add your project to the list.
-        
+
         Please note that we only add projects which are:
-        
+
         - functional and of good quality
         - related to Hetzner Cloud
   - type: input
@@ -42,16 +42,24 @@ body:
       required: true
 
   - type: dropdown
-    id: type
+    id: tags
     attributes:
-      label: Type
+      label: Tags
       description: |
-        In what section (Library, Tool, Integration) should the project be added?
-        You can leave this empty and we will choose the appropriate type.
+        In what section should the project be added?
+      multiple: true
       options:
         - Library
-        - Tool
-        - Integration
+        - CLI
+        - Terraform
+        - Ansible
+        - Kubernetes
+        - Monitoring
+        - CI/CD
+        - Commercial
+        - Service
+        - AI
+        - Miscellaneous
 
   - type: dropdown
     id: language
