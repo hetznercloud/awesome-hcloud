@@ -12,7 +12,7 @@ under multiple sections when they cover several concerns.
 - [Ansible](#ansible)
 - [Kubernetes](#kubernetes)
 - [Monitoring](#monitoring)
-- [CI/CD](#ci/cd)
+- [CI/CD](#cicd)
 - [Service](#service)
 - [Commercial](#commercial)
 - [AI](#ai)
