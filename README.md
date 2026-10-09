@@ -241,7 +241,7 @@ work, are complete, nor that they do not cause any harm to your system or your a
 ## Miscellaneous
 
 - **[Hetzner Cloud Packer Builder](https://github.com/hetznercloud/packer-plugin-hcloud) — An official Packer.io Builder for Hetzner Cloud**
-- [DevPod Provider](https://github.com/mrsimonemms/devpod-provider-hetzner) — Run [DevPod](https://github.com/loft-sh/devpod) cloud development environments on Hetzner.
+- [DevPod Provider](https://github.com/mrsimonemms/devpod-provider-hetzner) — Run [DevPod](https://github.com/loft-sh/devpod) cloud development environments on Hetzner. — ⚠️ Deprecated
 - [Docker Volume Hetzner](https://github.com/costela/docker-volume-hetzner) — Volume management plugin for Docker (and Swarm)
 - [HCloud Menubar](https://github.com/geberl/hcloud-menubar) — A lightweight macOS menu bar app for managing Hetzner Cloud resources
 - [Hcloud Snapshot-as-Backup](https://github.com/fbrettnich/hcloud-snapshot-as-backup) — Hetzner Cloud - Automatic Snapshots as Backups for more flexibility
